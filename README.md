@@ -19,5 +19,5 @@ TV端操作：
     上一台：    下滑
     下一台：    上滑
 
-apk下载：https://xxxxx.com
+apk下载：https://github.com/liyijun0417/LeesTv/blob/master/app-release.apk
 
